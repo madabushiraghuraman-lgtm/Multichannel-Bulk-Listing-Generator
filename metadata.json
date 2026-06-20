@@ -1,0 +1,6 @@
+{
+  "name": "Footwear Multichannel Bulk Listing Generator",
+  "description": "Convert a master footwear product Excel sheet into optimized upload templates for Amazon, Flipkart, and Myntra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
